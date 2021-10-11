@@ -1,0 +1,23 @@
+{
+  "name": "learn-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunlordc1/learningNode.JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunlordc1/learningNode.JS/issues"
+  },
+  "homepage": "https://github.com/sunlordc1/learningNode.JS#readme"
+}
