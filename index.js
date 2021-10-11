@@ -77,7 +77,6 @@ fs.appendFile('noidung.txt',"Xin chao tat ca moi nguoi2 \n",'utf-8',function(err
 
 ////////////////////////////////////////////////////////////////////
 var path  = require('path');
-const { Stream } = require('stream');
 var duongDan = path.join('2: '+__dirname+ '\\index.js');
 console.log('1: '+__dirname + '\\index.js');
 
